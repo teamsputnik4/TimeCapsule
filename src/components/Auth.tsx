@@ -36,7 +36,7 @@ export function Auth({ onSuccess }: Props) {
     <div className="min-h-screen bg-gray-100 flex items-center justify-center p-0 bg-cover bg-center">
       {/* Logo in the top-left corner */}
       <div className="absolute top-0 left-0 p-4  flex items-center gap-2">
-          <img src="/image/bgImage.png" alt="Logo" className="h-12 w-auto shadow-md" />
+          <img src="https://cdn.discordapp.com/attachments/1284481603212410902/1343228585380548660/20250223_200021.png?ex=67bc829a&is=67bb311a&hm=302ef9ff74a3ddd2686ea452a23a03421f09c197e11e428821d3b5c42cc740c2&" alt="Logo" className="h-12 w-auto shadow-md" />
           <h1 className='text-3xl font-bold'>SamayCapsule</h1>
         </div>
       <div className="max-w-md w-full bg-white rounded-lg shadow-md p-8 relative">

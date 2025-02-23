@@ -123,7 +123,7 @@ function App() {
       <div className="max-w-7xl mx-auto px-4 py-8">
         <div className="flex items-center justify-between mb-8">
           <div className="flex items-center gap-2">
-          <img src="/image/bgImage.png" alt="Logo" className="h-12 w-auto shadow-md rounded-s" />
+          <img src="https://cdn.discordapp.com/attachments/1284481603212410902/1343228585380548660/20250223_200021.png?ex=67bc829a&is=67bb311a&hm=302ef9ff74a3ddd2686ea452a23a03421f09c197e11e428821d3b5c42cc740c2&" alt="Logo" className="h-12 w-auto shadow-md rounded-s" />
             <h1 className="text-3xl font-bold text-gray-900">SamayCapsule</h1>
           </div>
           <button
